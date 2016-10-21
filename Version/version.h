@@ -1,0 +1,6 @@
+#define HVERSION_STRING "2.0.0.1"
+#define HVERSION_MAJOR 2
+#define HVERSION_MINOR 0
+#define HVERSION_BRANCH 0
+#define HVERSION_BUILD 1
+
